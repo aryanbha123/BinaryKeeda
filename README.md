@@ -1,9 +1,21 @@
 # Binary Keeda
 
-## Introduction
-[Binary Keeda](https://binarykeeda.com/) is a platform dedicated to providing high-quality resources, tutorials, and coding solutions related to computer science, programming, and technology. Our goal is to empower developers, students, and tech enthusiasts with knowledge and practical implementations in various domains like Data Structures, Algorithms, Web Development, and more
+A learning platform for computer science, programming and technology, with tutorials, coding challenges and interview prep.
 
-This platform has been developed from scratch by https://github.com/aaryanbhandari, focusing on delivering a seamless learning experience and an interactive coding environment.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=for-the-badge)
+
+## Introduction
+[Binary Keeda](https://binarykeeda.com/) is a platform dedicated to providing high-quality resources, tutorials, and coding solutions related to computer science, programming, and technology. Our goal is to empower developers, students, and tech enthusiasts with knowledge and practical implementations in various domains like Data Structures, Algorithms, Web Development, and more.
+
+This platform has been **developed from scratch by Aryan Bhandari**, focusing on delivering a seamless learning experience and an interactive coding environment.
+
+> This repository holds the project overview. The application source code lives in the [Binary-Keeda/Frontend](https://github.com/Binary-Keeda/Frontend) and [Binary-Keeda/Backend](https://github.com/Binary-Keeda/Backend) repositories.
 
 ## Features
 - 📚 **Tutorials**: In-depth explanations of various programming concepts.
@@ -20,40 +32,29 @@ This platform has been developed from scratch by https://github.com/aaryanbhanda
 - **Other Technologies**: Git, APIs, Deployment tools
 
 ## Getting Started
-### Clone the Repository
+### Clone the Repositories
 ```sh
- git clone https://github.com/Binary-Keeda/Frontend
- git clone https://github.com/Binary-Keeda/Backend
+git clone https://github.com/Binary-Keeda/Frontend
+git clone https://github.com/Binary-Keeda/Backend
 ```
-### Install Dependencies
+
+### Install and Run
+Backend:
 ```sh
- cd binary-keeda
- cd Backend
- npm start
- cd binary-keeda
- cd Frontend
- npm start
+cd Backend
+npm install
+npm start
 ```
-### Run the Project
+
+Frontend (in a second terminal):
 ```sh
- npm start
+cd Frontend
+npm install
+npm start
 ```
-Contribution
 
-We welcome contributions from the community! Follow these steps to contribute:
-
-Fork the repository
-
-Create a new branch (git checkout -b feature-branch)
-
-Commit your changes (git commit -m 'Add new feature')
-
-Push to the branch (git push origin feature-branch)
-
-Create a Pull Request
-### Deployment
+## Deployment
 - Hosted on **[binarykeeda.com](https://binarykeeda.com/)**
-- Deployment using Vercel/Netlify (or other platforms based on your setup)
 
 ## Contribution
 We welcome contributions from the community! Follow these steps to contribute:
@@ -70,10 +71,10 @@ We welcome contributions from the community! Follow these steps to contribute:
 - 📘 Facebook: [Binary Keeda](https://facebook.com/binarykeeda)
 
 ## License
-This project is licensed under the **MIT License** - see the LICENSE file for details.
+This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
+
+## Author
+**Aryan Bhandari**: [GitHub](https://github.com/aryanbha123)
 
 ---
 🚀 **Happy Coding!**
-
-
-do mention i deveeloped from scrath
